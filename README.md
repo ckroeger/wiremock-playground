@@ -2,7 +2,7 @@
 
 A playground for wiremock exploration.
 
-![](docs/wiremock-playground.jpg)
+[![](docs/wiremock-playground.jpg)](https://github.com/ckroeger/wiremock-playground)
 
 ## Start Wiremock via Docker
 ```shell
