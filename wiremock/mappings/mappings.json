@@ -1,0 +1,21 @@
+{
+  "mappings": [
+    {
+      "id" : "d5a7a1de-e32b-4be4-a0f2-b22114f91033",
+      "uuid" : "70579590-1cc3-4827-bfcd-25adfb3bbb2a",
+      "persistent" : true,
+      "insertionIndex" : 0,
+      "request": {
+        "url" : "/status",
+        "method" : "GET"
+      },
+      "response" : {
+        "status" : "200",
+        "body" : "UP",
+        "headers" : {
+          "Content-Type" : "text/plain"
+        }
+      }
+    }
+  ]
+}
